@@ -1,0 +1,15 @@
+C:\Users\user2\source\repos\ProjectStudents_Babashko\ProjectStudents_Babashko\bin\Debug\ProjectStudents_Babashko.exe.config
+C:\Users\user2\source\repos\ProjectStudents_Babashko\ProjectStudents_Babashko\bin\Debug\ProjectStudents_Babashko.exe
+C:\Users\user2\source\repos\ProjectStudents_Babashko\ProjectStudents_Babashko\bin\Debug\ProjectStudents_Babashko.pdb
+C:\Users\user2\source\repos\ProjectStudents_Babashko\ProjectStudents_Babashko\obj\Debug\ProjectStudents_Babashko.csproj.AssemblyReference.cache
+C:\Users\user2\source\repos\ProjectStudents_Babashko\ProjectStudents_Babashko\obj\Debug\ProjectStudents_Babashko.Form1.resources
+C:\Users\user2\source\repos\ProjectStudents_Babashko\ProjectStudents_Babashko\obj\Debug\ProjectStudents_Babashko.Form2.resources
+C:\Users\user2\source\repos\ProjectStudents_Babashko\ProjectStudents_Babashko\obj\Debug\ProjectStudents_Babashko.Properties.Resources.resources
+C:\Users\user2\source\repos\ProjectStudents_Babashko\ProjectStudents_Babashko\obj\Debug\ProjectStudents_Babashko.csproj.GenerateResource.cache
+C:\Users\user2\source\repos\ProjectStudents_Babashko\ProjectStudents_Babashko\obj\Debug\ProjectStudents_Babashko.csproj.CoreCompileInputs.cache
+C:\Users\user2\source\repos\ProjectStudents_Babashko\ProjectStudents_Babashko\obj\Debug\ProjectStudents_Babashko.exe
+C:\Users\user2\source\repos\ProjectStudents_Babashko\ProjectStudents_Babashko\obj\Debug\ProjectStudents_Babashko.pdb
+C:\Users\user2\source\repos\ProjectStudents_Babashko\ProjectStudents_Babashko\obj\Debug\ProjectStudents_Babashko.Form3.resources
+C:\Users\user2\source\repos\ProjectStudents_Babashko\ProjectStudents_Babashko\obj\Debug\ProjectStudents_Babashko.Form4.resources
+C:\Users\user2\source\repos\ProjectStudents_Babashko\ProjectStudents_Babashko\obj\Debug\ProjectStudents_Babashko.Form5.resources
+C:\Users\user2\source\repos\ProjectStudents_Babashko\ProjectStudents_Babashko\obj\Debug\ProjectStudents_Babashko.Form6.resources
